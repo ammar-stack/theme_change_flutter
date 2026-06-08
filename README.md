@@ -1,16 +1,7 @@
-# themes_practise
+# Theme Change in Flutter
 
-A new Flutter project.
+## Output Screens:
 
-## Getting Started
+<img width="290" height="399" alt="Screenshot_1780933122" src="https://github.com/user-attachments/assets/49781521-7956-4369-ad40-0b777206dceb" />
+<img width="290" height="399" alt="Screenshot_1780933118" src="https://github.com/user-attachments/assets/6a718be3-3101-462d-9e0b-655a9e2aeff6" />
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
